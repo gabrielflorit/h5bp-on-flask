@@ -4,7 +4,7 @@ html5 boilerplate on flask
 
 ### Windows
 
-    pip install virtualenv
+    virtualenv venv
     
     venv\scripts\activate
     
