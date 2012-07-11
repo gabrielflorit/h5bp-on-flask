@@ -15,7 +15,7 @@ html5 boilerplate on flask
     python runserver.py
     
     
-### Mac/Linux (coming soon)
+### Mac/Linux
     
     cd h5bp-on-flask
 
