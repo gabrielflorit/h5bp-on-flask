@@ -4,6 +4,8 @@ html5 boilerplate on flask
 
 ### Windows
 
+    cd h5bp-on-flask
+
     virtualenv venv
     
     venv\scripts\activate
@@ -13,4 +15,14 @@ html5 boilerplate on flask
     python runserver.py
     
     
-### Nix (coming soon)
+### Mac/Linux (coming soon)
+    
+    cd h5bp-on-flask
+
+    virtualenv --no-site-packages .
+    
+    . bin/activate
+    
+    bin/pip install -r requirements.txt
+    
+    python runserver.py
